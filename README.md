@@ -14,10 +14,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/adorablewhale/loader/
 
 ### what it does
 
-- **picks the script for you** — fisch gets [fischhub](https://github.com/adorablewhale/fischhub), more games as i make them
+- **picks the script for you** — fisch gets [fischhub](https://github.com/adorablewhale/fischhub), murder mystery 2 gets [mm2](https://github.com/adorablewhale/mm2), more games as i make them
 - **always the newest release** — nothing to redownload, ever
 - **works with autoexec** — pick what runs where in the insui gear tab
 - **does nothing in games it doesn't support** — safe to leave in autoexec
+- **turned auto-execute off?** — run `MatchaLoader.Run()` for one session, or `MatchaLoader.Enable()` to turn it back on
 
 old lines with `matcha-loader` in them still work, you don't have to change anything.
 
